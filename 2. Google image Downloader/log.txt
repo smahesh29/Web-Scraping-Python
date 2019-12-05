@@ -1,0 +1,46 @@
+[2019-12-06 01:20:17,800 INFO image_downloader]: Extracting image links
+[2019-12-06 01:20:17,801 INFO image_downloader]: Souping
+[2019-12-06 01:20:23,001 DEBUG charsetgroupprober]: utf-8  confidence = 0.99
+[2019-12-06 01:20:23,001 DEBUG charsetgroupprober]: SHIFT_JIS Japanese confidence = 0.01
+[2019-12-06 01:20:23,002 DEBUG charsetgroupprober]: EUC-JP Japanese confidence = 0.01
+[2019-12-06 01:20:23,003 DEBUG charsetgroupprober]: GB2312 Chinese confidence = 0.01
+[2019-12-06 01:20:23,003 DEBUG charsetgroupprober]: EUC-KR Korean confidence = 0.01
+[2019-12-06 01:20:23,004 DEBUG charsetgroupprober]: CP949 Korean confidence = 0.01
+[2019-12-06 01:20:23,004 DEBUG charsetgroupprober]: Big5 Chinese confidence = 0.01
+[2019-12-06 01:20:23,004 DEBUG charsetgroupprober]: EUC-TW Taiwan confidence = 0.01
+[2019-12-06 01:20:23,006 DEBUG charsetgroupprober]: windows-1251 Russian confidence = 0.01
+[2019-12-06 01:20:23,006 DEBUG charsetgroupprober]: KOI8-R Russian confidence = 0.01
+[2019-12-06 01:20:23,006 DEBUG charsetgroupprober]: ISO-8859-5 Russian confidence = 0.0
+[2019-12-06 01:20:23,007 DEBUG charsetgroupprober]: MacCyrillic Russian confidence = 0.0
+[2019-12-06 01:20:23,018 DEBUG charsetgroupprober]: IBM866 Russian confidence = 0.0
+[2019-12-06 01:20:23,019 DEBUG charsetgroupprober]: IBM855 Russian confidence = 0.0
+[2019-12-06 01:20:23,019 DEBUG charsetgroupprober]: ISO-8859-7 Greek confidence = 0.0
+[2019-12-06 01:20:23,020 DEBUG charsetgroupprober]: windows-1253 Greek confidence = 0.0
+[2019-12-06 01:20:23,021 DEBUG charsetgroupprober]: ISO-8859-5 Bulgairan confidence = 0.0
+[2019-12-06 01:20:23,021 DEBUG charsetgroupprober]: windows-1251 Bulgarian confidence = 0.0
+[2019-12-06 01:20:23,022 DEBUG charsetgroupprober]: TIS-620 Thai confidence = 0.0
+[2019-12-06 01:20:23,023 DEBUG charsetgroupprober]: ISO-8859-9 Turkish confidence = 0.32168890577677073
+[2019-12-06 01:20:23,024 DEBUG charsetgroupprober]: windows-1255 Hebrew confidence = 0.0
+[2019-12-06 01:20:23,026 DEBUG charsetgroupprober]: windows-1255 Hebrew confidence = 0.0
+[2019-12-06 01:20:23,037 DEBUG charsetgroupprober]: windows-1255 Hebrew confidence = 0.0
+[2019-12-06 01:20:23,038 DEBUG charsetgroupprober]: utf-8  confidence = 0.99
+[2019-12-06 01:20:23,039 DEBUG charsetgroupprober]: SHIFT_JIS Japanese confidence = 0.01
+[2019-12-06 01:20:23,039 DEBUG charsetgroupprober]: EUC-JP Japanese confidence = 0.01
+[2019-12-06 01:20:23,040 DEBUG charsetgroupprober]: GB2312 Chinese confidence = 0.01
+[2019-12-06 01:20:23,053 DEBUG charsetgroupprober]: EUC-KR Korean confidence = 0.01
+[2019-12-06 01:20:23,054 DEBUG charsetgroupprober]: CP949 Korean confidence = 0.01
+[2019-12-06 01:20:23,055 DEBUG charsetgroupprober]: Big5 Chinese confidence = 0.01
+[2019-12-06 01:20:23,056 DEBUG charsetgroupprober]: EUC-TW Taiwan confidence = 0.01
+[2019-12-06 01:20:23,183 INFO image_downloader]: Extracting image urls
+[2019-12-06 01:20:23,204 INFO image_downloader]: Downloading images
+[2019-12-06 01:20:23,204 INFO image_downloader]: Making request (0/10): https://cdn03.lolaflora.com/bonnygift/lola221-1/XL/15-red-roses-the-magic-of-love-lola221-1-8d535c8870a96c8-755205a2.jpg
+[2019-12-06 01:20:24,814 INFO image_downloader]: Making request (1/10): https://images.homedepot-static.com/productImages/612ae505-9daf-45c3-ac16-67f97dcb251d/svn/globalrose-flower-bouquets-prime-100-red-roses-64_1000.jpg
+[2019-12-06 01:20:25,179 INFO image_downloader]: Making request (2/10): https://cdn.shopify.com/s/files/1/1627/1479/products/FullSizeRender_14_7a129221-7198-4bf2-bae6-8d0ed75e080a.jpg?v=1485976893
+[2019-12-06 01:20:26,614 INFO image_downloader]: Making request (3/10): https://images.homedepot-static.com/productImages/4c249ff0-b5a4-4c93-b811-a0222973d920/svn/globalrose-flower-bouquets-vars-1-dozen-red-roses-64_1000.jpg
+[2019-12-06 01:20:26,994 INFO image_downloader]: Making request (4/10): https://images.unsplash.com/photo-1496857239036-1fb137683000?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+[2019-12-06 01:20:28,210 INFO image_downloader]: Making request (5/10): https://cdn.pixabay.com/photo/2018/05/16/22/27/rose-3407234__340.jpg
+[2019-12-06 01:20:28,494 INFO image_downloader]: Making request (6/10): https://www.simplemost.com/wp-content/uploads/2018/01/AdobeStock_98287360-750x500.jpeg
+[2019-12-06 01:20:29,828 INFO image_downloader]: Making request (7/10): https://d2z4fd79oscvvx.cloudfront.net/0027129_2_red_rose_385.jpeg
+[2019-12-06 01:20:30,385 INFO image_downloader]: Making request (8/10): https://d1whpkioiz600t.cloudfront.net/Images/product/100-red-roses-bunch-rs-2100.jpg
+[2019-12-06 01:20:31,308 INFO image_downloader]: Making request (9/10): https://images.unsplash.com/photo-1518709779341-56cf4535e94b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80
+[2019-12-06 01:20:32,708 INFO image_downloader]: Finished
