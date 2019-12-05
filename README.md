@@ -1,4 +1,4 @@
-# Web-Scraping-Python
+# Web-Scraping-Python  <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Web-Scraping-Python">
 It contains some web scraping examples implemented using Python.
 
 <h1>1. Internshala :</h1>
