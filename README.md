@@ -138,7 +138,7 @@ Here, change the following as per your needs:
 </ul>
 
 # Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of coffee ☕
+If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 <ul>
     <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
     <li><b>G Pay :</b> +919545123305</li>
