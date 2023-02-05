@@ -136,10 +136,3 @@ Here, change the following as per your needs:
 <ul>
   <li>The videos details will be stored in youtube_trending.xlsx file.</li>
 </ul>
-
-# Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
-<ul>
-    <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-    <li><b>UPI ID :</b> maheshusa29@oksbi</li>
-</ul>
